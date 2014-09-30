@@ -2,4 +2,3 @@ Primer ejemplo, con modificaciones
 
 5, ya sin conflictos,
 Hola
-
